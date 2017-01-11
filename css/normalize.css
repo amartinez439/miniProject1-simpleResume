@@ -133,7 +133,7 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: 9em;
   margin: 0.67em 0;
 }
 
@@ -142,8 +142,8 @@ h1 {
  */
 
 mark {
-  background: #ff0;
-  color: #000;
+  background: #67ff99;
+  color: #7ddef7;
 }
 
 /**
@@ -151,7 +151,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 1000%;
 }
 
 /**
